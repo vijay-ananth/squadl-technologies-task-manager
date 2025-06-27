@@ -1,0 +1,1 @@
+# squadl-technologies-task-manager
