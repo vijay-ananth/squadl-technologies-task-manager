@@ -1,5 +1,3 @@
-import axios from 'axios';
-import React from 'react'
 import moment from 'moment';
 
 const TaskCard = ({ handleGetDetails, handleDeleteCOnfirmationModal, handleUpdateStatus, allTask }) => {
